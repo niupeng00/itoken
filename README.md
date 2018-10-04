@@ -22,6 +22,7 @@ itoken
 
 系统架构
 
+![系统架构](https://images.gitee.com/uploads/images/2018/1004/084853_0e996228_2025920.png "屏幕截图.png")
 http://www.funtl.com/assets/Lusifer2018072916110001.png
 
 服务规划
